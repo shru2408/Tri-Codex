@@ -1,2 +1,2 @@
-# Tri-Codex
-Social Awareness
+# Tri codex
+ Social AWareness
